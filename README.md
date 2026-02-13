@@ -105,4 +105,4 @@ Response:
 
 ## Author
 
-JWT Demo API Project
+Shervin Tehrani

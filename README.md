@@ -47,8 +47,8 @@ Request body:
 
 ``` json
 {
-  "user": "username",
-  "pass": "password"
+  "user": "shervin",
+  "pass": "1"
 }
 ```
 
